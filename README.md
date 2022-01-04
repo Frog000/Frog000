@@ -1,19 +1,22 @@
 ### Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-### I am Yoo, Full Stack Web Developer from :kr: Seoul, Republic of Korea
+### I am Yoo, Full Stack Web Developer from :kr: Seoul, Republic of Korea 
 
-<!-- 간단한 것들은 영어로 작성 -->
 ### About me
+
 - 🌱 I’m currently learning Basic Programming skills like Python, HTML, CSS and Javascript.
 - :pencil: Sometimes I write articles on [Medium](https://medium.com/) <!-- Add a links-->
 - 📫 How to reach me: myEmail@gmail.com
 
-### Interest & Latest Projects
-- Web development
-- Animation with pure css & P5.js
+### Interest
 
+- Web development
+- Animation with pure CSS & P5.js
+
+### Latest Projects
 :crocodile: [Git_merge_practice](https://github.com/Frog000/merge_3.2_before_fast_forward)
 
 ### Languages and Tools
+
 <p>
 <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
 <img src="https://img.shields.io/badge/HTML5-E34F26?&style=flat-square&logo=html5&logoColor=white"/> 
@@ -37,6 +40,7 @@
 </p>
 
 ### Connect with me
+
 <p>
 <a href="www.gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Line-00C300?style=for-the-badge&logo=line&logoColor=white"/> 
@@ -44,6 +48,5 @@
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </p>
 
-![my stats](https://github-readme-stats.vercel.app/api?username=Frog000)
-
-![mystats2](https://github-readme-stats.vercel.app/api/top-langs/?username=Frog000)
+![my stats](https://github-readme-stats.vercel.app/api?username=Frog000&layout=compact&show_icons=true&theme=vue&hide_border=true)
+![mystats2](https://github-readme-stats.vercel.app/api/top-langs/?username=Frog000&layout=compact&theme=vue&hide_border=true)
