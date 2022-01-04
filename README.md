@@ -3,7 +3,7 @@
 
 ### About me
 
-- : I’m currently learning Basic Programming skills like Python, HTML, CSS and Javascript.
+- :four_leaf_clover: I’m currently learning Basic Programming skills like Python, HTML, CSS and Javascript.
 - :pencil: Sometimes I write articles on [Medium](https://medium.com/) <!-- Add a links-->
 - 📫 How to reach me: myEmail@gmail.com
 
@@ -49,5 +49,5 @@
 </p>
 
 <!-- status bar -->
-<img src="https://github-readme-stats.vercel.app/api?username=Frog000&layout=compact&show_icons=true&theme=vue&hide_border=true" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Frog000&layout=compact&theme=vue&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Frog000&layout=compact&show_icons=true&theme=vue&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Frog000&layout=compact&theme=vue&hide_border=true" />
