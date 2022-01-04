@@ -3,14 +3,14 @@
 
 ### About me
 
-- :four_leaf_clover: I’m currently learning Basic Programming skills like Python, HTML, CSS and Javascript.
-- :pencil: Sometimes I write articles on [Medium](https://medium.com/) <!-- Add a links-->
-- 📫 How to reach me: myEmail@gmail.com
+:four_leaf_clover: I’m currently learning Basic Programming skills like Python, HTML, CSS and Javascript.<br/>
+:pencil: Sometimes I write articles on [Medium](https://medium.com/) <br/> <!-- Add a links-->
+📫 How to reach me: myEmail@gmail.com <br/>
 
 ### Interest
 
-- Web development
-- Animation with pure CSS & P5.js
+Web development <br/>
+Animation with pure CSS & P5.js <br/>
 
 ### Latest Projects
 :crocodile: [Git_merge_practice](https://github.com/Frog000/merge_3.2_before_fast_forward)
