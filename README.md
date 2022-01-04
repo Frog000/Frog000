@@ -13,7 +13,7 @@ Web development <br/>
 Animation with pure CSS & P5.js <br/>
 
 ### Latest Projects
-:crocodile: [Git_merge_practice](https://github.com/Frog000/merge_3.2_before_fast_forward)
+[Git_merge_practice](https://github.com/Frog000/merge_3.2_before_fast_forward)
 
 ### Languages and Tools
 
